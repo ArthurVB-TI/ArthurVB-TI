@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Bird_&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Arthur%20Victor%20%E2%80%A2%20Full%20Stack%20%26%20Game%20Dev&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=200&section=header&text=Bird_&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArthurVB-TI&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArthurVB-TI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVB-TI&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
 
 <img src="https://streak-stats.demolab.com?user=ArthurVB-TI&theme=tokyonight&hide_border=true&locale=pt_BR" />
