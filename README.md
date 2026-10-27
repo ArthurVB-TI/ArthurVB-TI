@@ -10,19 +10,20 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ArthurVB-TI&label=Visitas&color=8b5cf6&style=for-the-badge" alt="visitas" />
+<a href="https://arthurvb-ti.github.io"><img src="https://komarev.com/ghpvc/?username=ArthurVB-TI&label=Visitas&color=8b5cf6&style=for-the-badge" alt="visitas" /></a>
+<a href="https://arthurvb-ti.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfólio" /></a>
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** na **PUC Minas**
-- 🧠 Monitor de **AEDs 1** — organizo aulões de revisão para a turma
-- 🎮 Desenvolvo jogos no **Roblox** (Luau + Knit) e na **Unity** (C#)
-- 🌐 Também faço sistemas **web full stack**: front-end, back-end e banco de dados
-- 🌱 Sempre aprendendo coisa nova (atualmente: arquitetura de jogos e PWAs)
+Sou estudante de **Ciência da Computação na PUC Minas** e monitor de **Algoritmos e Estruturas de Dados I**, onde organizo aulões de revisão para ajudar a turma a dominar o conteúdo.
+
+Gosto de construir coisas que as pessoas realmente usam. Desenvolvo **sistemas web full stack**, do front-end em React ao back-end em PHP com banco de dados MySQL, e crio **jogos** no Roblox, com Luau e arquitetura baseada em Knit, e na Unity, com C#.
+
+Hoje estou me aprofundando em arquitetura de jogos e em Progressive Web Apps, e estou sempre aberto a novos projetos e colaborações.
 
 ---
 
@@ -42,23 +43,6 @@
 
 <img src="https://skillicons.dev/icons?i=unity,git,github,vscode,visualstudio&perline=9" />
 
-</div>
-
----
-
-## 🎮 Meus jogos
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="420">
-      <h3>⚔️ RPSystem</h3>
-      <sub><b>Roblox • Luau • Knit</b></sub><br/><br/>
-      Framework de roleplay brasileiro: facções, ranks, permissões, economia e mais.<br/><br/>
-      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" />
-    </td>
-  </tr>
-</table>
 </div>
 
 ---
@@ -94,6 +78,7 @@
 
 <div align="center">
 
+<a href="https://arthurvb-ti.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:arthurbaptistati@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ArthurVB-TI"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
